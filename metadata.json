@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Business Compliance Platform",
+  "description": "One Business. One Digital Compliance Journey. Intelligent Business Approval, Licensing & Compliance Management Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
